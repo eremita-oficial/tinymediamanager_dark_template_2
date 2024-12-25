@@ -1,0 +1,10 @@
+DarkTemplate_2
+
+How to Use:
+
+1. Open tinyMedia Manager and export your movies to a folder called 'movies' (using the 'DarkTemplate Movies 2' template).
+
+2. Export the series to a folder called 'tvshows' (using the 'DarkTemplate TV Series 2' template).
+
+3. Then extract the 'index.html' file to the parent directory of these two folders.
+---
